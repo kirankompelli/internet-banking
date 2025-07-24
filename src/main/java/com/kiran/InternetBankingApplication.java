@@ -8,6 +8,7 @@ public class InternetBankingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(InternetBankingApplication.class, args);
+		System.out.println("new project");
 	}
 
 }
