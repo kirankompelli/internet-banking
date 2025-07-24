@@ -10,6 +10,7 @@ public class InternetBankingApplication {
 		SpringApplication.run(InternetBankingApplication.class, args);
 		System.out.println("new project");
 		System.out.println("new-1 project");
+		System.out.println("new-2 project");
 	}
 
 }
